@@ -1,1 +1,1 @@
-var link = "https://topcontroldigital.website/";
+var link = "https://appdirecthot.site/4FtKV1rC?utm_term={keyword}&utm_creative={creative}&utm_campaign={campaignid}&utm_position={adposition}&utm_network={network}&utm_target={target}&utm_placement={placement}&utm_match={matchtype}&gclid={gclid}";
